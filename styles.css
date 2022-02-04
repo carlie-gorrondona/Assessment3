@@ -36,3 +36,12 @@ input {
 img {
 	max-width: 300px;
 }
+
+.checkbox {
+	vertical-align: middle;
+}
+
+.buttons {
+	background-color: yellow;
+	
+}
