@@ -43,5 +43,9 @@ img {
 
 .buttons {
 	background-color: yellow;
-	
+
+}
+
+ol {
+	list-style-position: inside;
 }
