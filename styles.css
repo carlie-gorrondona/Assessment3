@@ -38,7 +38,7 @@ img {
 }
 
 .checkbox {
-	vertical-align: middle;
+	display: flex;
 }
 
 .button {
